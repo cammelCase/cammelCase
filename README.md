@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**cammelCase/cammelCase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+def say_hi():
+    hi = ["hi",
+        ":( account first my to access lost I unfortunately",
+        "want! you if here it check can you but",
+        "github.com/AugustoCarmona"]
+    for h in hi:
+      words = h.split()[::-1]
+      print(" ".join(words))
+ 
+say_hi() #oneliner would be too boring
+```
+<details>
+<summary><code>run</code></summary>
+    
+    hi
+    unfortunately I lost access to my first account :(
+    but you can check it here if you want!
+    github.com/AugustoCarmona
+</details>
 
-Here are some ideas to get you started:
+<details>
+<summary><code>me from monday to saturday</code></summary>
+<center>
+    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+    </a>
+</center>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><code>me on sundays</code></summary>
+<center>
+    <img src="https://media.giphy.com/media/ySpxjJmsq9gsw/giphy.gif" />
+    </a>
+</center>
+</details>
+<!-- este es el mensajito secreto del readme en cuestión -->
